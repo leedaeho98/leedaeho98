@@ -1,8 +1,16 @@
-### Hi there 👋
-<checkbox></checkbox>My email - <a href="">tlkj8754@gmail.com</a>
+### 👋Hi everyone :star:My name is Lee Dae ho:star:
+Lee email - <a href="">tlkj8754@gmail.com</a><br>
+Lee hobby - 👫Play girlfriend<br> 
+Lee phone - 📱010-8754-2340<br>
+Lee goal - <b>NAVER , GOOGLE</b>
+### I'm learning stack
+![HTML](https://img.shields.io/badge/HTML-red)
+![Javascript](https://img.shields.io/badge/Javascript-blue)
+![Css](https://img.shields.io/badge/Css-yellow)
 
 <!--
 **leedaeho98/leedaeho98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
