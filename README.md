@@ -2,7 +2,7 @@
 
 Lee email - <a href="">tlkj8754@gmail.com</a><br>
 Lee phone - 📱010-8754-0000<br>
-Lee goal - <b>NAVER , GOOGLE</b>
+Lee goal - ![NAVER](https://img.shields.io/badge/NAVER-green) , GOOGLE</b>
  
 ### I'm learning stack
 ![HTML](https://img.shields.io/badge/HTML-red)
