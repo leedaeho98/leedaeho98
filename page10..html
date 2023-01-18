@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+    <title>Document</title>
+    <style>
+        #panel, #flip {padding:5px ; font-size: 18px;
+        text-align: center; background-color: #555;
+        color:white; border:solid 1px #666; border-radius: 3px;}
+
+        #panel{padding:50px; display: none;}
+    </style>
+
+    <script>
+    $(document).ready(function(){
+    $('#flip').click(function(){ // flip가 클릭하면
+        $('#panel').slideDown(5000);  // 내용이 슬라이드 되어 내려온다 5000(5초)
+    })
+    
+
+    $('button').click(function(){ //클릭 버튼을 누르면
+        $('#panel').stop(); // 도중에 멈추고 싶으면 스탑을 쓰면된다
+    })
+});
+    </script>
+</head>
+<body>
+    <button>Click</button>
+
+    <div id="flip">클릭해서 패널 보여주기</div>
+    <div id="panel">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quo molestias animi deserunt obcaecati voluptates officia debitis error praesentium similique temporibus, doloremque, repellat ad doloribus harum magni dolorem accusantium optio?
+    Numquam cupiditate unde suscipit doloribus, illum impedit repellat corporis eius provident architecto beatae velit magni magnam? Odit, exercitationem quod molestias voluptas assumenda iure ab veniam molestiae esse nam consectetur consequatur?
+    Laborum maiores voluptatem rem architecto officiis libero iure, laboriosam magnam facere porro veritatis molestias soluta sequi, nisi aut animi? Dolore nisi voluptates, itaque molestiae velit id fugiat et ipsum voluptatibus.</p>
+    </div>
+</body>
+</html>
