@@ -2,7 +2,7 @@
 
 ### Lee email - tlkj8754@gmail.com
 ### Lee phone - 📱010-8754-0000
-### Lee goal - [NAVER](www.naver.com) , [GOOGLE](www.google.com)
+### Lee dream - [NAVER](www.naver.com) , [GOOGLE](www.google.com)
 
 <!--talbe-->
 |Front end|Back end|
@@ -11,7 +11,7 @@
 |CSS|JAVA SPRING|
 |JAVA SCRIPT|NODE.JS|
 ### 📚I'm learning stack
-![HTMLCSS](https://img.shields.io/badge/HTML:red,CSS:blue)
+![HTML CSS](https://img.shields.io/badge/HTML:red,CSS:blue)
 ![Javascript](https://img.shields.io/badge/Javascript-blue)
 ![Css](https://img.shields.io/badge/Css-yellow)
 ![Git](https://img.shields.io/badge/Git-aqua)
