@@ -1,8 +1,10 @@
 ### 👋Hi everyone :star:My name is Lee Dae ho:star:
 
-Lee email - <a href="">tlkj8754@gmail.com</a><br>
+```tg
+Lee email - tlkj8754@gmail.com<br>
 Lee phone - 📱010-8754-0000<br>
 Lee goal - NAVER , GOOGLE</b><br>
+```
 <!--talbe-->
 |Front end|Back end|
 |:--:|:--:|
