@@ -11,7 +11,7 @@
 |CSS|JAVA SPRING|
 |JAVA SCRIPT|NODE.JS|
 ### 📚I'm learning stack
-![HTML](https://img.shields.io/badge/HTML:red])
+![HTML Css](https://img.shields.io/badge/HTML-red Css-yellow])
 ![Javascript](https://img.shields.io/badge/Javascript-blue)
 ![Css](https://img.shields.io/badge/Css-yellow)
 ![Git](https://img.shields.io/badge/Git-aqua)
