@@ -10,13 +10,12 @@
 |HTML|JAVA|
 |CSS|JAVA SPRING|
 |JAVA SCRIPT|NODE.JS|
-### 📚:I'm learning stack
+### 📚I'm learning stack
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![Javascript](https://img.shields.io/badge/Javascript-blue)
 ![Css](https://img.shields.io/badge/Css-yellow)
 ![Git](https://img.shields.io/badge/Git-aqua)
 ![jQuery](https://img.shields.io/badge/jQuery-navy)
-![C](https://img.shields.io/badge/jQuery-navy)
 
 <!--
 **leedaeho98/leedaeho98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
