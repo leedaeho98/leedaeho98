@@ -1,4 +1,4 @@
-### 👋Hi everyone :star:My name is Lee Dae ho:star:
+### 👨‍🦲My name is Lee Dae ho:star:
 
 ### 📧Lee email - tlkj8754@gmail.com
 ### 📱Lee phone - 010-8754-0000
