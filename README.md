@@ -9,7 +9,7 @@
 |:--:|:--:|
 |HTML|JAVA|
 |CSS|JAVA SPRING|
-|JAVA SCRIPT|NODE.JS|
+|JAVA SCRIPT|SPRING BOOT|
 
 ### 📚I'm learning stack
 ![HTML](https://img.shields.io/badge/HTML-red)
